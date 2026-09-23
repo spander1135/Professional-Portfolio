@@ -3,25 +3,19 @@
 [spander1135@gmail.com](mailto:spander1135@gmail.com) | 479.640.5340 | Sand Springs, OK  
 https://www.linkedin.com/in/steven-anderson-1937b249 | https://github.com/swordless-saru/Professional-Portfolio
 
----
-
 ## PROFESSIONAL SUMMARY
 
 Dynamic Senior Manager with 10+ years of experience in data engineering and ETL pipeline migration. Expertise in building robust data architectures using BigQuery, SQL, and Power BI to deliver comprehensive insights and support cross-functional data governance for scalable operations. Proven ability to simplify complex processes and guide technical teams in evolving analytics environments.
 
----
-
 ## CORE COMPETENCIES
 
 ---
-**Business Intelligence & Data Visualization** *(10+ Yrs)* : Tableau, Power BI, Executive Dashboards, UI/UX Dashboard Design, Self-Service Analytics
-**Platform & Tools** *(12+ Yrs)* : GCP, Hive, GitHub, Alteryx, Dataiku, Airflow, YAML, ETL/ELT Automation, Data Quality & Governance, Query Optimization
-**Analytics & Data Modeling** *(12+ Yrs)* : Advanced SQL, Data Blending, Metric Standardization, Predictive Analytics, Regression Analysis
-**Product Leadership** *(12+ Yrs)* : Stakeholder Engagement, Project Management, Process Improvement, Problem Resolution, Analytical Thinking
-**Domain Knowledge** *(14+ Yrs)* : Supply Chain Optimization, Facility Maintenance, Operational Forecasting, Cost Analysis, Business Analysis
-**AI-assisted Development** *(1+ Yrs)* : ChatGPT, Claude, Microsoft Copilot, Kotlin, Python, CLI AI Development
----
-
+* **Business Intelligence & Data Visualization** *(10+ Yrs)* : Tableau, Power BI, Executive Dashboards, UI/UX Dashboard Design, Self-Service Analytics
+* **Platform & Tools** *(12+ Yrs)* : GCP, Hive, GitHub, Alteryx, Dataiku, Airflow, YAML, ETL/ELT Automation, Data Quality & Governance, Query Optimization
+* **Analytics & Data Modeling** *(12+ Yrs)* : Advanced SQL, Data Blending, Metric Standardization, Predictive Analytics, Regression Analysis
+* **Product Leadership** *(12+ Yrs)* : Stakeholder Engagement, Project Management, Process Improvement, Problem Resolution, Analytical Thinking
+* **Domain Knowledge** *(14+ Yrs)* : Supply Chain Optimization, Facility Maintenance, Operational Forecasting, Cost Analysis, Business Analysis
+* **AI-assisted Development** *(1+ Yrs)* : ChatGPT, Claude, Microsoft Copilot, Kotlin, Python, CLI AI Development
 ---
 
 ## PROFESSIONAL EXPERIENCE
@@ -67,15 +61,11 @@ Dynamic Senior Manager with 10+ years of experience in data engineering and ETL 
 * Investigated apparel imports for US government tax compliance, ensuring data accuracy and regulatory adherence.
 * Collaborated with product development teams to identify product alterations, leading to cost savings and compliance improvements.
 
----
-
 ## EDUCATION & CERTIFICATIONS
 
 * **Graduate Certification in Managerial Analytics** – American Public University
 * **Bachelor of Science in Architectural Studies (Minor in Art)** – University of Arkansas
 * **Professional Certifications in Graphic Design & Web Design** – NWACC
-
----
 
 ## DESIGN PORTFOLIO & INITIATIVES
 
