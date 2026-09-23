@@ -14,12 +14,12 @@ Dynamic Senior Manager with 10+ years of experience in data engineering and ETL 
 ## CORE COMPETENCIES
 
 ---
-**Business Intelligence & Data Visualization** *(10+ Yrs)*: Tableau, Power BI, Executive Dashboards, UI/UX Dashboard Design, Self-Service Analytics
-**Platform & Tools** *(12+ Yrs)*: GCP, Hive, GitHub, Alteryx, Dataiku, Airflow, YAML, ETL/ELT Automation, Data Quality & Governance, Query Optimization
-**Analytics & Data Modeling** *(12+ Yrs)*: Advanced SQL, Data Blending, Metric Standardization, Predictive Analytics, Regression Analysis
-**Product Leadership** *(12+ Yrs)*: Stakeholder Engagement, Project Management, Process Improvement, Problem Resolution, Analytical Thinking
-**Domain Knowledge** *(14+ Yrs)*: Supply Chain Optimization, Facility Maintenance, Operational Forecasting, Cost Analysis, Business Analysis
-**AI-assisted Development** *(1+ Yrs)*: ChatGPT, Claude, Microsoft Copilot, Kotlin, Python, CLI AI Development
+**Business Intelligence & Data Visualization** *(10+ Yrs)* : Tableau, Power BI, Executive Dashboards, UI/UX Dashboard Design, Self-Service Analytics
+**Platform & Tools** *(12+ Yrs)* : GCP, Hive, GitHub, Alteryx, Dataiku, Airflow, YAML, ETL/ELT Automation, Data Quality & Governance, Query Optimization
+**Analytics & Data Modeling** *(12+ Yrs)* : Advanced SQL, Data Blending, Metric Standardization, Predictive Analytics, Regression Analysis
+**Product Leadership** *(12+ Yrs)* : Stakeholder Engagement, Project Management, Process Improvement, Problem Resolution, Analytical Thinking
+**Domain Knowledge** *(14+ Yrs)* : Supply Chain Optimization, Facility Maintenance, Operational Forecasting, Cost Analysis, Business Analysis
+**AI-assisted Development** *(1+ Yrs)* : ChatGPT, Claude, Microsoft Copilot, Kotlin, Python, CLI AI Development
 ---
 
 ---
