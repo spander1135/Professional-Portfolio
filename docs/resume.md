@@ -1,9 +1,7 @@
 # STEVEN ANDERSON
-
 spander1135@gmail.com | 479.640.5340 | Sand Springs, OK
 https:/www.linkedin.com/in/steven-anderson-1937b249
 https:/github.com/swordless-saru/Professional-Portfolio
----
 
 ## PROFESSIONAL SUMMARY
 Data Visualization and Business Intelligence leader with 14+ years of experience transforming
@@ -18,6 +16,7 @@ across SQL, Python, Kotlin, and YAML.
 
 ## CORE COMPETENCIES
 Business Intelligence & Data Visualization (10+ Yrs) | Tableau, Power BI, Executive Dashboards, UI/UX DashboardDesign, Self-Service Analytics
+Platform & Tools (12+ Yrs) | GCP, Hive, GitHub, Alteryx, Dataiku, Airflow, YAML, ETL/ELT Automation, Data Quality & Governance, Query Optimizatio
 
 ## PROFESSIONAL EXPERIENCE
 ## EDUCATION & CERTIFICATIONS
