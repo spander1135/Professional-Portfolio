@@ -1,7 +1,7 @@
 # STEVEN ANDERSON
 
 [spander1135@gmail.com](mailto:spander1135@gmail.com) | 479.640.5340 | Sand Springs, OK  
-[LinkedIn](https://www.linkedin.com/in/steven-anderson-1937b249) | [GitHub Portfolio](https://github.com/swordless-saru/Professional-Portfolio)
+https://www.linkedin.com/in/steven-anderson-1937b249 | https://github.com/swordless-saru/Professional-Portfolio
 
 ---
 
