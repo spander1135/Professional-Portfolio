@@ -1,0 +1,40 @@
+title: Professional Portfolio
+description: >-
+  Resume, case studies, codes snippets, and other examples of my work and experience.
+
+# Published directly from the private repo's docs/ folder (GitHub
+# Pages supports this on a private repo - see Kanon's DECISIONS.md D-08
+# for the confirmation history). This is a project-pages site
+# (username.github.io/[page-name]), so baseurl must be set explicitly or every
+# internal link resolves one level too high.
+baseurl: /Professional-Portfolio
+
+# Pinned deliberately. An unpinned remote_theme tracks the theme's default
+# branch, so an upstream change could break this site with no commit here.
+# Bump this on purpose, never by accident.
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+
+# Renders inline `foo.md` links as working site links, so the same markdown
+# reads correctly both on GitHub and on the published site.
+relative_links:
+  enabled: true
+  collections: false
+
+search_enabled: true
+heading_anchors: true
+
+# No "View on GitHub" aux link: the source repo (Dragma) is private, so a
+# public visitor following that link would just hit a 404/access-denied
+# page. If a public source repo ever exists again, add it back here.
+
+color_scheme: light
+
+footer_content: >-
+  Copyright &copy; 2026 Steven Anderson.
+
+exclude:
+  - .gitignore
