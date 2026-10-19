@@ -22,3 +22,13 @@ The company needed to measure and improve how distribution centers deliver trail
 No existing system provided this visibility at the level of granularity needed for operational decisions.
 
 #### The Goal
+Achieve enterprise Plan Compliance target - the percentage of store-days where actual trailer deliveries match the planned count.
+
+#### The Stakeholders
+Role | Use Case
+---- | ----
+Flow Planning | Daily operational decisions, capacity planning
+Transportation Offices | Route optimization, driver scheduling
+Regional DC Operations | Preformance tracking, compliance monitoring
+Enterprise Analytics | Report integration
+Weekly Report Recipients | Business intelligence and trend analysis
